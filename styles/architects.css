@@ -190,6 +190,9 @@ padding-left: 21px;
 }
 
 /* Our Sponsors */
+.our-sponsors{
+    margin-bottom: 80px;
+}
 .section-title{
     font-size: 3rem;
 }
